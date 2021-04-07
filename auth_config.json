@@ -1,0 +1,7 @@
+{
+  "domain": "shane-pizza42.us.auth0.com",
+  "clientId": "2T2Xv4mwSYtuURfS2TRBhH7Et5rUEpyO",
+  "audience": "https://shartman-pizza-42-auth.herokuapp.com",
+  "scope": "create:order",
+  "apiUrl": "http://localhost:7000"
+}
